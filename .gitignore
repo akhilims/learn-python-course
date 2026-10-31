@@ -1,0 +1,17 @@
+# ALLOWLIST: git ignores everything, except the lesson code types below (a second safety after the export filter).
+*
+!*/
+!.gitignore
+!README.md
+!requirements.txt
+!*.py
+!*.ipynb
+# never, even when the types above match
+.env
+*secret*
+*token*
+*credential*
+youtube/
+__pycache__/
+.ipynb_checkpoints/
+.venv/
