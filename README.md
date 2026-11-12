@@ -39,12 +39,25 @@ Each lesson has its own folder with the code shown in the video: the notebook (`
 | 2.5 | while loops, break, continue and the number guessing game (Parts 1 and 2) | [open folder](Module%2002%20-%20Decisions%20and%20loops/Python_Course_2_5__while_loops__break__continue_and_the_gues) |
 | 2.6 | Module 2 project: Bus Ticket Desk | [open folder](Module%2002%20-%20Decisions%20and%20loops/Python_Course_2_P__Bus_Ticket_Desk_in_Python) |
 
+## Module 3 - Data structures
+| Lesson | Topic | Code and notes |
+|---|---|---|
+| 3.1 | Lists | [open folder](Module%2003%20-%20Data%20structures/Python_Course_3_1__Lists_in_Python) |
+| 3.2 | Slicing, sorting and list methods | [open folder](Module%2003%20-%20Data%20structures/Python_Course_3_2__Slicing__Sorting_and_List_Methods_in_Pyth) |
+| 3.3 | Tuples and unpacking | [open folder](Module%2003%20-%20Data%20structures/Python_Course_3_3__Tuples_and_Unpacking) |
+| 3.4 | Dictionaries | [open folder](Module%2003%20-%20Data%20structures/Python_Course_3_4__Dictionaries_in_Python) |
+| 3.5 | Sets | [open folder](Module%2003%20-%20Data%20structures/Python_Course_3_5__Sets) |
+| 3.6 Part 1 | Mini project: contact book (list, tuple, dictionary and set together) | [open folder](Module%2003%20-%20Data%20structures/Python_Course_3_6__Choosing_the_Right_Structure_-_Contact_Bo) |
+| 3.6 Part 2 | Mini project: contact book, finishing it | [open folder](Module%2003%20-%20Data%20structures/Python_Course_3_6__Choosing_the_Right_Structure_in_Python) |
+
+Each Module 3 folder also has the lesson's notes as a PDF.
+
 ## The full course path
-Lessons are added module by module, in order. Modules 1 and 2 are done; the others are on the way:
+Lessons are added module by module, in order. Modules 1, 2 and 3 are done; the others are on the way:
 
 1. Module 1 - Start (done)
 2. Module 2 - Decisions and loops (done)
-3. Module 3 - Data structures
+3. Module 3 - Data structures (done)
 4. Module 4 - Functions
 5. Module 5 - Files and errors
 6. Module 6 - Objects
