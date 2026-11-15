@@ -3,7 +3,7 @@
 The complete code of the YouTube course **"Learn Python from Basic to Advanced"** (channel Akhilesh Kumar, playlist *Python Course: Beginner to Advanced*).
 The course is for absolute beginners: no experience needed. Every lesson shows real code typed line by line in VS Code, runs it, and explains every output and every error. The path goes from your first `print()` to building your own AI agent.
 
-Each lesson has its own folder with the code shown in the video: the notebook (`.ipynb`) and the plain script (`.py`).
+Each lesson has its own folder with the code shown in the video: the notebook (`.ipynb`) and/or the plain script (`.py`).
 
 ## What you need
 - Python 3.10 or newer
@@ -15,54 +15,102 @@ Each lesson has its own folder with the code shown in the video: the notebook (`
 - **Script:** open a terminal in the lesson folder and run `python <file>.py`.
 - Watch the video first, then run the code yourself, then do the exercise at the end of the video.
 
-## Module 1 - Start
+## Module 01 - Start
 | Lesson | Topic | Code |
 |---|---|---|
 | 1.1 | What Python is, what you will build, how the course works | [open folder](Module%2001%20-%20Start/Python_Course_1_1__What_Python_Is__What_You_Will_B) |
-| 1.2 | Install Python and VS Code: your first file and notebook (Part 2 of 3) | [open folder](Module%2001%20-%20Start/Python_Course_1_2__Part_2_of_3___VS_Code__Your_First_File_an) |
+| 1.2 Part 2 | Install Python and VS Code: your first file and notebook | [open folder](Module%2001%20-%20Start/Python_Course_1_2__Part_2_of_3___VS_Code__Your_First_File_an) |
 | 1.3 | Your first program | [open folder](Module%2001%20-%20Start/Python_Course_1_3_-_Your_First_Program) |
 | 1.4 | Variables and numbers | [open folder](Module%2001%20-%20Start/Python_Course_1_4_-_Variables_and_Numbers) |
 | 1.5 | Strings and f-strings | [open folder](Module%2001%20-%20Start/Python_Course_1_5_-_Strings_and_f-strings) |
 | 1.6 | How Python works | [open folder](Module%2001%20-%20Start/Python_Course_1_6_-_How_Python_Works) |
 | 1.7 Part 1 | Project: dinner bill splitter | [open folder](Module%2001%20-%20Start/Python_Course_1_7__Part_1_of_2___Project_Dinner_Bill_Splitte) |
-| 1.7 Part 2 | Project: dinner bill splitter (a real file) | [open folder](Module%2001%20-%20Start/Python_Course_1_7__Part_2_of_2___Project_Dinner_Bill_Splitte) |
+| 1.7 Part 2 | Project: dinner bill splitter | [open folder](Module%2001%20-%20Start/Python_Course_1_7__Part_2_of_2___Project_Dinner_Bill_Splitte) |
 
-## Module 2 - Decisions and loops
+## Module 02 - Decisions and loops
 | Lesson | Topic | Code |
 |---|---|---|
 | 2.0 | Indentation and code blocks | [open folder](Module%2002%20-%20Decisions%20and%20loops/Python_Course_2_0__Indentation_and_Code_Blocks_in_Python) |
 | 2.1 | Booleans and comparisons | [open folder](Module%2002%20-%20Decisions%20and%20loops/Python_Course_2_1__Booleans_and_Comparisons_in_Python) |
-| 2.2 Part 1 | if and else: making choices | [open folder](Module%2002%20-%20Decisions%20and%20loops/Python_Course_2_2__if__elif_and_else_in_Python__Part_1_of_2) |
-| 2.2 Part 2 | elif: more than two choices | [open folder](Module%2002%20-%20Decisions%20and%20loops/Python_Course_2_2__if__elif_and_else_in_Python__Part_2_of_2) |
+| 2.2 Part 1 | if / elif / else | [open folder](Module%2002%20-%20Decisions%20and%20loops/Python_Course_2_2__if__elif_and_else_in_Python__Part_1_of_2) |
+| 2.2 Part 2 | if / elif / else | [open folder](Module%2002%20-%20Decisions%20and%20loops/Python_Course_2_2__if__elif_and_else_in_Python__Part_2_of_2) |
 | 2.3 | Asking the user with input() | [open folder](Module%2002%20-%20Decisions%20and%20loops/Python_Course_2_3__Asking_the_User_with_input___in_Python) |
 | 2.4 | for loops and range() | [open folder](Module%2002%20-%20Decisions%20and%20loops/Python_Course_2_4__for_Loops_and_range_in_Python) |
-| 2.5 | while loops, break, continue and the number guessing game (Parts 1 and 2) | [open folder](Module%2002%20-%20Decisions%20and%20loops/Python_Course_2_5__while_loops__break__continue_and_the_gues) |
-| 2.6 | Module 2 project: Bus Ticket Desk | [open folder](Module%2002%20-%20Decisions%20and%20loops/Python_Course_2_P__Bus_Ticket_Desk_in_Python) |
+| 2.5 | while loops, break, continue and the number guessing game | [open folder](Module%2002%20-%20Decisions%20and%20loops/Python_Course_2_5__while_loops__break__continue_and_the_gues) |
+| Project | Module 2 project: Bus Ticket Desk | [open folder](Module%2002%20-%20Decisions%20and%20loops/Python_Course_2_P__Bus_Ticket_Desk_in_Python) |
 
-## Module 3 - Data structures
-| Lesson | Topic | Code and notes |
+## Module 03 - Data structures
+| Lesson | Topic | Code |
 |---|---|---|
-| 3.1 | Lists | [open folder](Module%2003%20-%20Data%20structures/Python_Course_3_1__Lists_in_Python) |
-| 3.2 | Slicing, sorting and list methods | [open folder](Module%2003%20-%20Data%20structures/Python_Course_3_2__Slicing__Sorting_and_List_Methods_in_Pyth) |
-| 3.3 | Tuples and unpacking | [open folder](Module%2003%20-%20Data%20structures/Python_Course_3_3__Tuples_and_Unpacking) |
-| 3.4 | Dictionaries | [open folder](Module%2003%20-%20Data%20structures/Python_Course_3_4__Dictionaries_in_Python) |
-| 3.5 | Sets | [open folder](Module%2003%20-%20Data%20structures/Python_Course_3_5__Sets) |
-| 3.6 Part 1 | Mini project: contact book (list, tuple, dictionary and set together) | [open folder](Module%2003%20-%20Data%20structures/Python_Course_3_6__Choosing_the_Right_Structure_-_Contact_Bo) |
-| 3.6 Part 2 | Mini project: contact book, finishing it | [open folder](Module%2003%20-%20Data%20structures/Python_Course_3_6__Choosing_the_Right_Structure_in_Python) |
+| 3.1 | Python Course 3 1 Lists in Python | [open folder](Module%2003%20-%20Data%20structures/Python_Course_3_1__Lists_in_Python) |
+| 3.2 | Python Course 3 2 Slicing Sorting and List Methods in Pyth | [open folder](Module%2003%20-%20Data%20structures/Python_Course_3_2__Slicing__Sorting_and_List_Methods_in_Pyth) |
+| 3.3 | Python Course 3 3 Tuples and Unpacking | [open folder](Module%2003%20-%20Data%20structures/Python_Course_3_3__Tuples_and_Unpacking) |
+| 3.4 | Python Course 3 4 Dictionaries in Python | [open folder](Module%2003%20-%20Data%20structures/Python_Course_3_4__Dictionaries_in_Python) |
+| 3.5 | Python Course 3 5 Sets | [open folder](Module%2003%20-%20Data%20structures/Python_Course_3_5__Sets) |
+| 3.6 | Python Course 3 6 Choosing the Right Structure - Contact Bo | [open folder](Module%2003%20-%20Data%20structures/Python_Course_3_6__Choosing_the_Right_Structure_-_Contact_Bo) |
+| 3.6 | Python Course 3 6 Choosing the Right Structure in Python | [open folder](Module%2003%20-%20Data%20structures/Python_Course_3_6__Choosing_the_Right_Structure_in_Python) |
 
-Each Module 3 folder also has the lesson's notes as a PDF.
+## Module 04 - Functions
+| Lesson | Topic | Code |
+|---|---|---|
+| 4.1 | Python Course 4 1 Defining Functions and Return Values in P | [open folder](Module%2004%20-%20Functions/Python_Course_4_1__Defining_Functions_and_Return_Values_in_P) |
+| 4.2 | Python Course 4 2 Function Arguments - Defaults Keyword | [open folder](Module%2004%20-%20Functions/Python_Course_4_2__Function_Arguments_-_Defaults__Keyword) |
+| 4.3 | Python Course 4 3 Scope and Small Pure Functions in Python | [open folder](Module%2004%20-%20Functions/Python_Course_4_3__Scope_and_Small_Pure_Functions_in_Python) |
+| 4.4 | Python Course 4 4 lambda map filter and sorted with key | [open folder](Module%2004%20-%20Functions/Python_Course_4_4__lambda__map__filter_and_sorted_with_key) |
+| 4.5 | Python Course 4 5 Recursion Docstrings and a Text Analyser | [open folder](Module%2004%20-%20Functions/Python_Course_4_5__Recursion__Docstrings_and_a_Text_Analyser) |
+
+## Module 05 - Files and errors
+| Lesson | Topic | Code |
+|---|---|---|
+| 5.1 | Python Course 5 1 Reading and Writing Text Files in Python | [open folder](Module%2005%20-%20Files%20and%20errors/Python_Course_5_1__Reading_and_Writing_Text_Files_in_Python) |
+| 5.2 | Python Course 5 2 Paths with pathlib in Python | [open folder](Module%2005%20-%20Files%20and%20errors/Python_Course_5_2__Paths_with_pathlib_in_Python) |
+| 5.3 | Python Course 5 3 CSV Files in Python | [open folder](Module%2005%20-%20Files%20and%20errors/Python_Course_5_3__CSV_Files_in_Python) |
+| 5.4 | Python Course 5 4 JSON | [open folder](Module%2005%20-%20Files%20and%20errors/Python_Course_5_4__JSON) |
+| 5.5 | Python Course 5 5 Errors - try except finally and raise | [open folder](Module%2005%20-%20Files%20and%20errors/Python_Course_5_5__Errors_-_try__except__finally_and_raise) |
+
+## Module 06 - Objects
+| Lesson | Topic | Code |
+|---|---|---|
+| 6.1 | Python Course 6 1 Classes and Objects in Python Part 1 | [open folder](Module%2006%20-%20Objects/Python_Course_6_1__Classes_and_Objects_in_Python__Part_1) |
+| 6.1 | Python Course 6 1 Classes and Objects in Python Part 2 | [open folder](Module%2006%20-%20Objects/Python_Course_6_1__Classes_and_Objects_in_Python__Part_2) |
+| 6.2 | Python Course 6 2 init Attributes and Methods | [open folder](Module%2006%20-%20Objects/Python_Course_6_2____init____Attributes_and_Methods) |
+| 6.2 | Python Course 6 2 init Attributes and Methods Part 1 | [open folder](Module%2006%20-%20Objects/Python_Course_6_2____init____Attributes_and_Methods__Part_1) |
+| 6.3 | Python Course 6 3 Special Methods - str repr and | [open folder](Module%2006%20-%20Objects/Python_Course_6_3__Special_Methods_-___str______repr___and) |
+| 6.4 | Python Course 6 4 Inheritance and Polymorphism in Python P | [open folder](Module%2006%20-%20Objects/Python_Course_6_4__Inheritance_and_Polymorphism_in_Python__P) |
+| 6.5 Part 1 | Python Course 6 5 Composition and Dataclasses Part 1 of 2 | [open folder](Module%2006%20-%20Objects/Python_Course_6_5__Composition_and_Dataclasses__Part_1_of_2) |
+| 6.5 Part 2 | Python Course 6 5 Composition and Dataclasses Part 2 of 2 | [open folder](Module%2006%20-%20Objects/Python_Course_6_5__Composition_and_Dataclasses__Part_2_of_2) |
+| 6.6 | Python Course 6 6 Mini Project - Library Management System | [open folder](Module%2006%20-%20Objects/Python_Course_6_6__Mini_Project_-_Library_Management_System) |
+
+## Module 07 - Modules and Tools
+| Lesson | Topic | Code |
+|---|---|---|
+| 7.1 | Python Course 7 1 Imports and the Standard Library in Pytho | [open folder](Module%2007%20-%20Modules%20and%20Tools/Python_Course_7_1__Imports_and_the_Standard_Library_in_Pytho) |
+| 7.2 | Python Course 7 2 Your Own Modules and Packages - Split the | [open folder](Module%2007%20-%20Modules%20and%20Tools/Python_Course_7_2__Your_Own_Modules_and_Packages_-_Split_the) |
+| 7.3 | Python Course 7 3 Virtual Environments and pip in Python P | [open folder](Module%2007%20-%20Modules%20and%20Tools/Python_Course_7_3__Virtual_Environments_and_pip_in_Python__P) |
+| 7.4 Part 1 | Python Course 7 4 Debugging in Python Part 1 of 2 | [open folder](Module%2007%20-%20Modules%20and%20Tools/Python_Course_7_4__Debugging_in_Python__Part_1_of_2) |
+| 7.5 | Python Course 7 5 Command-Line Programs with argparse - Bui | [open folder](Module%2007%20-%20Modules%20and%20Tools/Python_Course_7_5__Command-Line_Programs_with_argparse_-_Bui) |
+
+## Module 08 - Clean Python
+| Lesson | Topic | Code |
+|---|---|---|
+| 8.1 Part 1 | Python Course 8 1 Comprehensions in Python Part 1 of 2 | [open folder](Module%2008%20-%20Clean%20Python/Python_Course_8_1__Comprehensions_in_Python__Part_1_of_2) |
+| 8.2 | Python Course 8 2 Iterators and Generators - One Lap at a T | [open folder](Module%2008%20-%20Clean%20Python/Python_Course_8_2__Iterators_and_Generators_-_One_Lap_at_a_T) |
+| 8.3 | Python Course 8 3 Decorators - Stamp Every Announcement | [open folder](Module%2008%20-%20Clean%20Python/Python_Course_8_3__Decorators_-_Stamp_Every_Announcement) |
+| 8.4 | Python Course 8 4 Context Managers - Save the Race Results | [open folder](Module%2008%20-%20Clean%20Python/Python_Course_8_4__Context_Managers_-_Save_the_Race_Results) |
+| 8.5 Part 1 | Python Course 8 5 Type Hints in Python Part 1 of 2 | [open folder](Module%2008%20-%20Clean%20Python/Python_Course_8_5__Type_Hints_in_Python__Part_1_of_2) |
+| 8.6 | Python Course 8 6 unittest and PEP 8 - Check the Race Progr | [open folder](Module%2008%20-%20Clean%20Python/Python_Course_8_6__unittest_and_PEP_8_-_Check_the_Race_Progr) |
 
 ## The full course path
-Lessons are added module by module, in order. Modules 1, 2 and 3 are done; the others are on the way:
+Lessons are added module by module, in order:
 
 1. Module 1 - Start (done)
 2. Module 2 - Decisions and loops (done)
 3. Module 3 - Data structures (done)
-4. Module 4 - Functions
-5. Module 5 - Files and errors
-6. Module 6 - Objects
-7. Module 7 - Modules and tools
-8. Module 8 - Clean Python
+4. Module 4 - Functions (done)
+5. Module 5 - Files and errors (done)
+6. Module 6 - Objects (done)
+7. Module 7 - Modules and tools (done)
+8. Module 8 - Clean Python (done)
 9. Module 9 - Data work
 10. Module 10 - Web and APIs
 11. Module 11 - Automation
@@ -76,6 +124,6 @@ Lessons are added module by module, in order. Modules 1, 2 and 3 are done; the o
 19. Module 19 - Capstone: build an LLM agent
 
 ## Notes
-- Folders are named after the lessons; Parts of one lesson share one video series.
+- Folders are named after the lessons; the Parts of one lesson belong to one video series.
 - Found a mistake in a lesson? Open an issue and write the lesson number.
 - Follow the playlist in order for the best results.
