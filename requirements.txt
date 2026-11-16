@@ -1,5 +1,8 @@
 # The lessons use only these packages (Python 3.10 or newer). Install: pip install -r requirements.txt
 logtool
 logtools
+matplotlib
+numpy
+pandas
 tabulate
 ipykernel  # runs the notebooks in VS Code

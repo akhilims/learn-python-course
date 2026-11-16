@@ -6,7 +6,7 @@
 !requirements.txt
 !*.py
 !*.ipynb
-!*_notes.pdf
+!*.csv
 # never, even when the types above match
 .env
 *secret*

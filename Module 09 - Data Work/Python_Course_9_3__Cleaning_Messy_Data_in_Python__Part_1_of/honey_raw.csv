@@ -1,0 +1,1238 @@
+id,market,jars,price
+0,HILL,9,
+1,Mill,n/a,8
+2,Mill,n/a,8.5
+3,Park,,8
+4, park,,8
+5,Mill,9,8
+6,Park,12,8.5
+7,mill ,15,
+8,Mill,n/a,9
+9,Dock,9,8
+10,Dock,9,9
+11,Dock,12,8
+12,Park,-5,
+13,Park,n/a,
+14,mill ,9,8.5
+15,HILL,n/a,
+16,Dock,,9
+17,Mill,12,
+18,HILL,9,
+19,Dock,12,9
+20,HILL,n/a,
+21,Park,12,8
+22,Park,-5,8
+23,Dock,15,
+24,Park,-5,9
+24,Park,-5,9
+25,Park,15,8.5
+26,Park,12,8.5
+27,mill ,-5,8.5
+28,Park,12,8.5
+29, park,15,8.5
+30, park,15,
+31,Dock,,8.5
+32,mill ,9,8.5
+33,Mill,,8.5
+34,Mill,9,
+35, park,n/a,9
+36,Dock,n/a,8
+37,Dock,n/a,
+38,Park,12,
+39,Mill,9,8
+40,Park,9,8
+41,Mill,12,8
+42, park,12,9
+43,Mill,9,
+44,HILL,15,9
+45,Mill,,
+46,HILL,12,8.5
+47,HILL,-5,9
+48,Dock,9,8
+49, park,15,8.5
+50,Mill,n/a,9
+51,Mill,-5,9
+52,mill ,15,8.5
+53, park,15,8.5
+54,mill ,9,
+55,mill ,9,
+56,Mill,12,9
+57,mill ,-5,9
+58,Dock,15,9
+59,Mill,9,
+60,mill ,,8
+61,Dock,15,8
+62,Mill,,8.5
+63,mill ,,9
+64,Dock,,
+65,Mill,-5,8.5
+66,mill ,12,8.5
+67,Park,-5,8.5
+68, park,,9
+69, park,9,8
+69, park,9,8
+70,Dock,-5,8
+71,mill ,,8.5
+72,mill ,12,9
+73, park,9,9
+74,Park,9,8
+75,HILL,,
+76, park,9,8.5
+77,Mill,,8.5
+78,mill ,9,8.5
+79,Dock,12,8
+80, park,n/a,
+81,Mill,n/a,8
+82,HILL,12,8
+83, park,12,8
+84, park,n/a,8.5
+85,Park,n/a,
+86,mill ,-5,9
+87,mill ,,8.5
+88,Park,,9
+89,mill ,,8
+90,HILL,12,8.5
+91,Dock,-5,9
+92,mill ,,8.5
+93,Mill,,
+94,Dock,9,8.5
+95, park,,9
+96,HILL,15,8
+97,Mill,15,
+98,Mill,,9
+99,HILL,n/a,8
+100,mill ,12,8
+101,Mill,9,9
+102,Park,-5,9
+103, park,n/a,
+104,Mill,15,8
+105,mill ,,8
+106,Mill,-5,8
+107,Mill,n/a,8.5
+108,Mill,,8
+109, park,,9
+110,Mill,n/a,8.5
+111,mill ,15,8
+112,HILL,-5,9
+113,mill ,15,
+114,mill ,15,9
+115,HILL,12,8
+115,HILL,12,8
+116, park,n/a,8.5
+117,mill ,,8
+118,Dock,,
+119,Park,n/a,9
+120,mill ,15,8.5
+121,Dock,-5,8.5
+122,HILL,12,8.5
+122,HILL,12,8.5
+123,Dock,-5,9
+124,Mill,12,
+125,Dock,15,8.5
+126,Mill,,8.5
+127,Park,12,9
+128,HILL,n/a,9
+129,HILL,9,9
+130,HILL,,8
+131, park,-5,8.5
+132,Mill,12,9
+133,mill ,,8
+134,HILL,15,8.5
+135, park,9,
+136,Dock,,8.5
+137, park,-5,8.5
+138,Dock,n/a,
+139, park,9,8
+140, park,-5,8.5
+141,Mill,9,9
+142,Park,,8
+143,Dock,n/a,8.5
+144,Mill,,8
+145, park,n/a,8
+146,Mill,-5,
+147,Mill,15,8.5
+148,mill ,9,
+149,Park,12,
+150,HILL,12,8.5
+151,mill ,15,9
+152,Dock,15,8.5
+152,Dock,15,8.5
+153,Mill,,9
+154,Mill,-5,8.5
+155,HILL,-5,9
+156,Park,12,8.5
+157,Mill,,8
+158,Mill,n/a,
+159,Park,9,8.5
+160,Mill,9,9
+161,mill ,n/a,9
+162,Dock,15,8.5
+163,Park,,8
+164,Park,-5,
+165,Dock,9,
+166,HILL,12,9
+166,HILL,12,9
+167,HILL,,8
+168,mill ,-5,8
+169,HILL,15,9
+170,Park,n/a,8
+171,Park,15,8
+172,Mill,-5,9
+173,mill ,9,9
+174,HILL,9,9
+175,Park,12,
+176, park,n/a,8.5
+177,Mill,-5,
+178,mill ,-5,9
+179, park,9,8.5
+180,HILL,15,9
+181,Dock,-5,9
+182,mill ,15,
+183,Park,12,8.5
+184,Mill,9,
+185,Park,15,
+186, park,9,8.5
+187,HILL,n/a,8
+188,HILL,15,8.5
+189,Dock,,
+190, park,9,
+191,Mill,,9
+192,HILL,9,8.5
+193,mill ,,
+194,Park,15,8
+195,Park,-5,
+196,Park,12,8
+197, park,,
+198,Mill,9,8.5
+199,Dock,12,
+200,Mill,12,8.5
+201,Mill,-5,9
+202,Dock,15,
+203,Mill,12,8
+204, park,9,
+205, park,12,8
+206,Park,15,9
+207,mill ,,8.5
+208,Mill,,9
+209,mill ,,
+210,mill ,-5,
+211,mill ,,8
+212,Dock,,9
+213,mill ,12,9
+214, park,12,8.5
+215,mill ,15,8.5
+216,mill ,15,9
+217, park,,8.5
+218,Park,,8
+219,mill ,,8
+220, park,9,
+221,Mill,9,
+222,Dock,15,8
+223,mill ,15,8.5
+224, park,-5,
+225,Dock,-5,
+226,HILL,,8.5
+227,Mill,15,8
+228,Mill,n/a,8.5
+229,HILL,,8
+230,Park,9,9
+231,Park,9,9
+232,Park,12,
+233,Dock,,8
+234,Park,12,8
+235,Dock,12,9
+236,HILL,n/a,8
+237,Dock,-5,9
+238,HILL,12,8
+238,HILL,12,8
+239,mill ,12,
+240,Park,,9
+241,Park,9,
+242,Dock,15,8.5
+243,HILL,15,
+244, park,12,8.5
+245,mill ,9,
+246,Mill,,9
+247,Park,12,8
+248,Mill,9,8
+249,Dock,,8.5
+250,Park,,8.5
+251,Dock,12,9
+252, park,15,9
+253,HILL,9,
+254,mill ,9,8.5
+255, park,9,9
+256,HILL,9,8.5
+257,Mill,-5,
+258,Mill,12,
+259,mill ,,9
+260,HILL,9,8
+261, park,n/a,8.5
+262,HILL,n/a,8.5
+263,HILL,-5,8
+264, park,-5,9
+265,HILL,15,8.5
+266,HILL,12,8.5
+267,HILL,,9
+268,HILL,12,8.5
+269,Park,n/a,
+270,Mill,,8.5
+271,Mill,-5,8.5
+272,HILL,,9
+273,Park,12,9
+274,HILL,,
+274,HILL,,
+275,HILL,-5,8.5
+276,Park,9,8
+277,mill ,,8
+278,Park,n/a,9
+279,mill ,9,8
+280,mill ,-5,
+281, park,15,8.5
+282,HILL,9,8.5
+283,Mill,,
+284,mill ,15,8.5
+285,Mill,,9
+286,Dock,,8
+287, park,-5,8.5
+288,mill ,n/a,
+289,mill ,,8.5
+290,Mill,,8.5
+291,Mill,9,8.5
+292,mill ,12,8
+293,HILL,12,
+294, park,-5,9
+295,HILL,n/a,8.5
+296,Dock,15,
+297,mill ,12,8
+298,Park,,8.5
+299, park,,8.5
+300,Park,12,8
+301,Park,15,8
+302, park,n/a,8
+303,mill ,12,9
+304, park,12,8
+305,Park,-5,8.5
+305,Park,-5,8.5
+306,Mill,n/a,8
+307,Park,15,8.5
+308,Dock,9,8
+309, park,15,8.5
+310, park,15,
+311, park,,8.5
+312, park,n/a,8.5
+313,Mill,9,8.5
+314,Dock,15,9
+315,mill ,15,8
+316,Mill,-5,9
+317,Park,n/a,8
+318, park,-5,
+319,HILL,15,
+320, park,9,9
+321,Mill,,8.5
+322,Dock,12,9
+323,HILL,15,9
+324,Dock,12,8.5
+325, park,-5,
+326,HILL,12,8.5
+327, park,-5,8
+327, park,-5,8
+328,Mill,n/a,9
+329, park,15,8.5
+330,HILL,n/a,8.5
+331, park,,8.5
+332,mill ,-5,8.5
+333,Mill,-5,8.5
+334,HILL,,9
+335,Mill,-5,9
+336, park,,
+337,Mill,12,8
+338,Park,9,8.5
+339,Mill,12,8.5
+340,mill ,n/a,
+341,mill ,n/a,9
+342,Dock,12,
+343,Mill,,
+344,Park,12,
+345,Mill,15,8.5
+346,Mill,15,9
+347,HILL,-5,
+348, park,15,9
+349,mill ,12,8
+350,mill ,-5,8.5
+351,Dock,15,8.5
+352,HILL,n/a,8.5
+353,Dock,-5,
+354, park,-5,8
+355,Park,-5,8.5
+356,HILL,9,
+357,Mill,n/a,8.5
+358,Mill,12,8
+359,mill ,15,8.5
+360,Mill,12,8.5
+361,Dock,12,8
+362,Mill,n/a,9
+363, park,-5,8
+364,Dock,,8
+365,mill ,12,8
+366,Dock,12,9
+367,mill ,12,8.5
+368,HILL,,9
+368,HILL,,9
+369,HILL,15,8
+370,HILL,15,
+371, park,-5,8
+372,Mill,,8
+373,Dock,12,8.5
+374,Mill,n/a,9
+375,Mill,n/a,8.5
+376,Mill,12,9
+377,Park,-5,8.5
+378, park,15,9
+379,mill ,15,8.5
+380,mill ,,8.5
+381,Dock,12,
+382,Dock,n/a,8
+383,HILL,12,
+384,Dock,12,
+385,Mill,15,8.5
+386,Park,n/a,8.5
+387,Dock,9,
+388, park,-5,8
+389,HILL,n/a,8.5
+390,Park,-5,9
+391,Park,-5,9
+392,mill ,15,
+393,Dock,9,8.5
+394,Dock,n/a,8.5
+395,mill ,-5,9
+396,HILL,9,8.5
+397,mill ,15,8
+398,Dock,12,8.5
+399,mill ,15,9
+400,mill ,12,8
+401,Park,,8
+401,Park,,8
+402,Park,-5,8.5
+403,Dock,15,
+403,Dock,15,
+404,HILL,n/a,
+404,HILL,n/a,
+405,mill ,,
+406,Dock,-5,8.5
+407,Dock,12,
+408,HILL,-5,8
+409,mill ,,8.5
+410,Park,,
+410,Park,,
+411,Park,n/a,8.5
+412,HILL,12,
+413,Mill,12,9
+414,mill ,-5,8.5
+415,Mill,n/a,
+416,Dock,,8
+417,HILL,n/a,9
+418,Park,9,8.5
+419,Mill,-5,9
+420,HILL,15,
+421,Mill,12,
+422,Dock,-5,9
+423,Mill,9,9
+424, park,9,
+425,mill ,9,8
+426,Dock,9,
+427,Dock,9,8.5
+428,Dock,,
+429, park,-5,8.5
+430,Park,15,8.5
+431,Park,-5,9
+432,Dock,9,
+432,Dock,9,
+433,Dock,15,9
+434,HILL,15,
+435, park,-5,8
+436,HILL,9,9
+437,Mill,12,9
+438,mill ,n/a,9
+439,Mill,-5,8
+440,Mill,-5,9
+441,Mill,n/a,8.5
+442,mill ,,9
+443,mill ,,8.5
+444,Dock,n/a,8
+445, park,-5,9
+446,Dock,9,8
+447,Park,-5,8
+448,HILL,,8.5
+449,Park,,8
+450,mill ,-5,
+451,mill ,n/a,8
+452,HILL,,
+453,Park,15,
+454,Dock,12,8.5
+455,Dock,-5,8
+455,Dock,-5,8
+456,Mill,-5,9
+457,Mill,n/a,
+458,mill ,12,8.5
+459,Dock,9,9
+460,Dock,15,9
+461, park,n/a,8.5
+462,HILL,,9
+463,HILL,15,9
+464,Park,15,9
+465,HILL,9,
+466,HILL,9,9
+467,mill ,n/a,8
+468,Mill,,
+469,Mill,,9
+470,Mill,9,
+471,Dock,12,
+472,Dock,-5,8
+473,Dock,-5,
+474,mill ,12,8.5
+475,Park,12,8
+476,mill ,15,9
+477,mill ,,8
+478,Park,n/a,8
+479, park,12,8
+480,Park,n/a,
+481,Mill,-5,
+482,Dock,9,
+483, park,12,8
+484,mill ,9,8
+485,Mill,-5,8
+486,Mill,9,8
+487,Mill,15,8.5
+488,Dock,9,8
+489,Dock,-5,8.5
+490,Mill,15,
+491,HILL,12,8
+491,HILL,12,8
+492,Mill,-5,8
+493,HILL,-5,8.5
+494,Park,n/a,8
+495, park,-5,
+496,mill ,9,8
+497,Dock,9,
+498,Park,15,9
+499,Mill,n/a,9
+500,Dock,12,8.5
+501,HILL,n/a,
+502,mill ,,
+503, park,9,
+504,Mill,15,9
+505,mill ,n/a,8
+506,mill ,n/a,8.5
+507, park,-5,
+508,Mill,n/a,
+509,mill ,-5,8.5
+510,Mill,-5,
+511,mill ,15,8
+512,Park,n/a,8
+513,HILL,12,8.5
+514, park,15,9
+515, park,9,8.5
+516,Mill,9,9
+517, park,15,
+518,mill ,9,8
+519,Park,15,8
+520,Park,12,8.5
+521,Mill,15,9
+522,Mill,12,8
+523, park,,8.5
+524,HILL,,8
+525, park,n/a,8.5
+526,Mill,15,8.5
+527,Park,12,8
+528, park,15,
+529,Mill,n/a,
+530,Dock,12,9
+531,mill ,-5,8
+532,Dock,n/a,
+533,mill ,15,8.5
+534,mill ,9,8
+535,HILL,12,8
+536,Mill,15,
+537,mill ,15,8
+538,Dock,-5,9
+539,Park,-5,8
+540,HILL,15,
+541,Park,,8.5
+542,mill ,-5,8
+543,mill ,12,8.5
+544,mill ,12,9
+545,mill ,,8
+546,Park,12,8
+547,HILL,15,8.5
+548,Dock,15,8.5
+549,Dock,12,8.5
+550, park,9,
+551,HILL,,
+552,Mill,15,9
+553,mill ,15,
+554,Park,,8
+555, park,12,8.5
+556,HILL,12,9
+557,HILL,,9
+558,mill ,12,
+559,mill ,12,9
+560,Dock,12,
+561,HILL,n/a,8.5
+562, park,15,8.5
+563,Mill,,8.5
+564,mill ,9,8.5
+565,mill ,-5,8.5
+566,Mill,12,
+567,mill ,9,8.5
+568,Dock,-5,8.5
+569,mill ,12,8
+570, park,,8
+571,HILL,15,9
+572,Park,12,8
+573,Park,9,9
+574, park,15,8
+575,HILL,n/a,8
+576,Park,n/a,8
+577,Dock,9,9
+578,Park,n/a,8
+579,Mill,-5,
+580,Mill,n/a,8.5
+580,Mill,n/a,8.5
+581,Mill,9,8.5
+582,HILL,15,8
+582,HILL,15,8
+583,Dock,-5,8.5
+584, park,-5,
+585,Dock,,8
+586,Mill,-5,8.5
+587,Mill,,
+588,HILL,12,8
+589,mill ,n/a,8.5
+590,mill ,-5,
+591,mill ,12,
+592, park,n/a,8
+593,Mill,15,9
+594,HILL,-5,
+595, park,15,
+596,Mill,15,8.5
+597,HILL,9,
+598,Mill,15,8
+599,Mill,15,
+600,Dock,12,8.5
+601,Park,,8
+602,Mill,12,9
+603, park,15,8
+604,HILL,12,8
+605,Mill,15,8
+606,Dock,9,8
+607, park,15,8
+608, park,9,
+609,mill ,15,
+610,HILL,9,8
+611,HILL,,8.5
+612,mill ,n/a,9
+613, park,15,
+614,HILL,12,8.5
+615,mill ,n/a,
+616,Park,12,9
+617,mill ,15,9
+618,HILL,9,9
+619,Mill,9,8
+620,HILL,,8
+621,Park,15,8
+622,Dock,-5,8.5
+623,Dock,15,8.5
+624, park,n/a,9
+625, park,12,
+626,Dock,-5,8.5
+627,Mill,12,
+628, park,12,
+629, park,9,
+630,HILL,n/a,8
+631,Park,-5,
+632,HILL,15,9
+633, park,n/a,
+634,Mill,-5,
+635,HILL,9,9
+636,Park,n/a,
+637,Mill,15,9
+638, park,9,9
+639,Park,12,8
+640, park,,9
+641,HILL,n/a,
+642, park,-5,
+643,HILL,12,9
+644,Mill,-5,8
+645,Mill,,9
+646,Dock,n/a,8.5
+647,Park,,
+648, park,n/a,9
+649,Dock,12,8.5
+650,HILL,12,9
+651,Mill,-5,9
+652, park,,8.5
+653, park,9,8.5
+654,Mill,-5,8
+655,Dock,-5,8
+656,Mill,12,9
+657, park,12,9
+658,Mill,n/a,8
+659,mill ,9,
+660, park,15,8.5
+661,Park,n/a,8
+662, park,n/a,8
+662, park,n/a,8
+663,Mill,9,
+664, park,,8
+665,Dock,n/a,9
+666,mill ,15,9
+667,HILL,-5,8
+668, park,12,9
+669, park,,8
+670,Park,n/a,8
+671, park,9,8.5
+672,mill ,n/a,8.5
+673,Park,15,
+674,Park,12,8.5
+675,Dock,-5,8.5
+676,Park,-5,
+676,Park,-5,
+677,mill ,12,8.5
+678,Park,9,8
+679,HILL,,9
+680, park,,9
+681,Mill,12,
+682,HILL,n/a,8.5
+683,Park,15,9
+684,Mill,15,8
+685,mill ,9,8.5
+686,HILL,n/a,8.5
+687,Park,9,8.5
+688,mill ,-5,
+689, park,9,9
+690, park,9,8.5
+691,Dock,9,9
+692,Park,n/a,9
+693,Park,n/a,8.5
+694,Mill,-5,8
+695,HILL,-5,
+695,HILL,-5,
+696,Dock,n/a,8.5
+697,Park,-5,8
+698,mill ,15,8.5
+699,Mill,12,9
+700,HILL,9,8
+701,Mill,9,9
+702,Dock,,9
+703,Park,-5,8.5
+704,mill ,12,9
+705,Dock,-5,9
+706,Mill,-5,
+707,Park,15,8
+708,Mill,15,8.5
+709,Mill,,8
+710,Park,9,9
+711,Dock,12,9
+712,mill ,n/a,8.5
+713,Dock,n/a,9
+714,Dock,-5,9
+715,Mill,-5,9
+716, park,n/a,8
+717,Dock,12,8
+718,mill ,15,8
+719,Dock,,8.5
+720,Mill,15,
+721,HILL,-5,
+722,Dock,-5,8.5
+723, park,9,
+724,Mill,-5,9
+725,mill ,-5,8.5
+726,mill ,12,8.5
+727,Park,12,8.5
+728,mill ,9,
+729,mill ,-5,8.5
+729,mill ,-5,8.5
+730,Dock,,8.5
+731,HILL,-5,9
+732,Dock,9,8.5
+733,Mill,n/a,
+734,mill ,-5,8.5
+735,Park,,8.5
+736,HILL,12,9
+737,Mill,12,9
+738,Mill,-5,9
+739,Mill,9,9
+740, park,15,9
+741,Mill,12,8
+742,Park,12,9
+743, park,15,8
+744,Park,,8.5
+745,HILL,12,9
+746,Dock,15,9
+747,Mill,9,8
+747,Mill,9,8
+748,Park,9,9
+749,Dock,n/a,8.5
+750,Dock,15,9
+751,Dock,15,9
+752,mill ,n/a,9
+753,HILL,9,8
+754, park,-5,
+755,mill ,,
+756,mill ,15,8
+757,mill ,9,8.5
+758,Park,12,8
+759,Park,9,8.5
+760,Mill,12,
+761,Mill,-5,8
+762,Park,15,8
+763,Dock,9,8.5
+764,Mill,,9
+765,Park,12,9
+766,Park,n/a,8.5
+767, park,n/a,8
+768,Mill,-5,9
+769,HILL,n/a,
+770,Park,-5,8.5
+771,HILL,n/a,8
+772,mill ,-5,
+773,mill ,-5,9
+774,Park,15,8.5
+775,Park,15,8
+776,mill ,n/a,8
+777,HILL,-5,8
+778,Dock,15,
+779,Park,9,8
+780, park,n/a,8
+781,Dock,12,
+782, park,n/a,8
+783,Dock,n/a,8
+784,Dock,,8.5
+785,mill ,n/a,
+786,mill ,15,8
+787,Mill,15,8
+787,Mill,15,8
+788, park,9,
+789,Dock,9,
+790,Mill,n/a,8.5
+791,Dock,15,8.5
+792,HILL,-5,8
+793,Mill,9,9
+794, park,15,
+795, park,15,8
+796,HILL,n/a,8
+797,Dock,9,9
+798,Dock,,8
+799, park,,8
+800,Park,12,8
+801,mill ,9,9
+802,Dock,,8.5
+803,HILL,n/a,9
+804,Mill,12,9
+805,Park,n/a,
+806,Mill,12,8.5
+807,Dock,-5,
+808,mill ,-5,
+809, park,n/a,8
+810, park,9,9
+811, park,n/a,8
+812,HILL,-5,
+813,Park,,9
+814,HILL,n/a,
+815,Mill,9,
+816, park,12,8.5
+817,mill ,15,
+818, park,15,9
+819, park,n/a,8.5
+820,Mill,n/a,8
+821,Park,-5,8
+822,HILL,9,8.5
+823,HILL,15,9
+824,Dock,9,9
+825,Dock,,9
+826,HILL,-5,9
+827,Park,n/a,9
+828,mill ,15,8.5
+829,Mill,-5,
+830,Park,n/a,9
+831, park,12,8.5
+832,HILL,15,9
+833,mill ,n/a,8
+834,HILL,n/a,9
+835,HILL,-5,
+836,Mill,,9
+837,HILL,15,8
+838,Dock,15,8.5
+839,mill ,12,
+840, park,15,8
+841,Dock,12,8.5
+842,Mill,12,9
+843,Mill,9,9
+844,Mill,-5,9
+845,mill ,15,9
+846,Mill,-5,
+847,Dock,15,8.5
+848,Park,12,8
+849,HILL,,
+850,Park,12,8
+851, park,-5,9
+852, park,-5,9
+853,Mill,9,8.5
+854,Mill,15,9
+855, park,-5,8.5
+856, park,n/a,9
+857, park,15,
+858,Dock,15,
+859,HILL,n/a,9
+860,Mill,n/a,
+861,HILL,9,8.5
+862,Mill,12,8.5
+863, park,n/a,8.5
+864,mill ,15,9
+865,mill ,-5,8.5
+866,HILL,-5,8.5
+867,Park,9,9
+868,Park,,8.5
+869,Mill,12,8
+870,Dock,,9
+871, park,,
+872,Park,-5,8.5
+873,Mill,15,
+874,HILL,9,9
+875,Dock,15,9
+876,Park,9,8.5
+877,HILL,9,9
+878,HILL,12,
+879,mill ,9,9
+880, park,,8.5
+881,mill ,-5,9
+882,Park,9,
+883,HILL,-5,8
+884,mill ,12,8.5
+885,mill ,n/a,9
+886,mill ,,
+887,HILL,-5,
+888,Mill,n/a,8.5
+889,Dock,-5,8
+890, park,n/a,8.5
+891,Dock,12,8
+892,HILL,12,8
+893,Park,9,
+893,Park,9,
+894,mill ,-5,8.5
+895, park,n/a,8
+896,Park,12,9
+897,mill ,-5,8
+898,mill ,12,9
+899,Mill,9,8
+900, park,15,9
+900, park,15,9
+901,Dock,12,
+902, park,15,
+903,Dock,-5,9
+904,HILL,n/a,
+905,mill ,,
+906,mill ,-5,8
+907, park,15,
+908,mill ,-5,8
+909, park,12,8
+910, park,15,
+911,HILL,,8
+912,Dock,,9
+913,Park,9,
+914,Mill,,9
+915,Dock,15,8
+916, park,-5,8.5
+917,HILL,15,
+918,HILL,n/a,
+919,mill ,12,9
+920, park,9,9
+921,mill ,9,
+922,Dock,12,9
+923,Park,12,
+924,HILL,,8
+925,Dock,n/a,9
+926,Mill,15,
+927,Park,-5,8
+928,Park,-5,8.5
+929,mill ,12,8.5
+930, park,-5,8.5
+931, park,15,
+932, park,9,8
+933,Mill,n/a,8.5
+934, park,15,9
+935,HILL,,8
+936,Park,12,8.5
+937,HILL,n/a,9
+938,Dock,,
+939,Dock,15,
+940, park,15,9
+941, park,9,8.5
+942,Dock,n/a,9
+943,mill ,15,8
+944,Park,,
+945,Park,-5,8
+946, park,,
+947,Park,,
+948,Mill,,
+949, park,12,8.5
+950,Park,n/a,8
+951,HILL,n/a,9
+952,Park,12,8
+953,Mill,n/a,8
+954,Mill,9,
+955,Dock,9,9
+956,Mill,n/a,
+957,mill ,,8
+958,mill ,15,9
+959,Mill,9,9
+960,Mill,15,
+961,HILL,n/a,
+962,Park,-5,8
+963,mill ,,
+964,HILL,15,8.5
+965,mill ,n/a,9
+966,Dock,,8.5
+967,HILL,9,
+968, park,-5,8
+969,Mill,n/a,8
+970, park,15,8
+971,Park,15,8.5
+972, park,n/a,
+973,Dock,,8.5
+974,Mill,9,
+975,Mill,12,8.5
+976,Mill,n/a,
+977,Dock,n/a,8.5
+978,Dock,-5,9
+979, park,9,8.5
+980,Dock,9,8
+981,mill ,12,8
+982,Dock,15,
+983,mill ,12,8.5
+984,Park,15,8.5
+985,HILL,-5,8.5
+986,HILL,15,8.5
+987,Dock,9,
+988,HILL,,8.5
+989,mill ,-5,8
+990,mill ,-5,8.5
+991,Dock,,8
+992,HILL,12,8.5
+993, park,n/a,8
+994,HILL,12,
+995,Mill,9,
+996,HILL,n/a,8
+997,Park,15,8.5
+998,HILL,12,8
+999,HILL,9,8.5
+1000,Mill,9,9
+1001,Park,9,9
+1002,mill ,12,9
+1003,Dock,n/a,
+1004, park,12,8.5
+1005,Park,12,8
+1006, park,12,
+1007,mill ,,9
+1008,Dock,-5,8.5
+1009,Dock,12,9
+1009,Dock,12,9
+1010,Dock,,9
+1011,Mill,12,8.5
+1012,Park,15,8
+1013,mill ,9,8
+1014,HILL,9,9
+1015,mill ,9,8.5
+1016, park,n/a,8.5
+1017,Mill,12,8
+1018,Dock,n/a,8.5
+1019,mill ,12,8.5
+1020,HILL,12,
+1021, park,12,9
+1022,Mill,12,8.5
+1023, park,n/a,8
+1024,Mill,n/a,9
+1025,Mill,9,8.5
+1026,HILL,12,
+1027,mill ,12,9
+1028,Park,,8
+1029,mill ,9,8.5
+1030,HILL,9,8.5
+1031,mill ,-5,9
+1032,Mill,12,
+1033, park,15,8
+1034,Dock,12,8.5
+1035,Mill,15,
+1036,Dock,15,8.5
+1037,Park,-5,
+1038,Dock,15,8
+1039,Dock,n/a,8.5
+1040,Dock,n/a,9
+1041, park,n/a,8
+1042,HILL,9,8.5
+1043,Park,n/a,8.5
+1044, park,-5,8
+1045,Park,-5,9
+1046,Park,12,8.5
+1047,HILL,-5,
+1048,Mill,15,
+1049,Mill,,
+1050,HILL,,8.5
+1051,mill ,12,9
+1052,Park,n/a,8
+1053,Mill,15,8.5
+1054,Park,,8.5
+1055,Dock,-5,8
+1056,mill ,,9
+1057,mill ,15,8.5
+1058, park,,9
+1059, park,n/a,8.5
+1060,mill ,,8
+1060,mill ,,8
+1061,mill ,12,8.5
+1062,Dock,15,9
+1063, park,-5,
+1064,HILL,-5,
+1065, park,15,
+1066,HILL,15,9
+1067,Dock,-5,
+1068,Dock,12,
+1069,Dock,12,8
+1070,Dock,12,
+1071, park,9,
+1072,HILL,,8.5
+1072,HILL,,8.5
+1073,HILL,9,8.5
+1074, park,n/a,8
+1075,mill ,-5,9
+1076,mill ,15,8
+1077,Park,-5,8
+1078,Dock,-5,
+1079,Dock,15,9
+1080, park,,8
+1081,HILL,9,8.5
+1082,Mill,9,9
+1083,mill ,-5,9
+1084, park,15,
+1085,HILL,-5,8.5
+1086,Park,9,9
+1087,Park,12,9
+1088,HILL,,
+1089,mill ,n/a,
+1090,Park,-5,8.5
+1091,HILL,12,8.5
+1092, park,,
+1093,HILL,,9
+1094,Park,n/a,9
+1095,Mill,15,
+1096,Mill,n/a,9
+1097,HILL,15,8.5
+1098, park,12,
+1099,Dock,12,9
+1100,mill ,-5,8
+1101,Park,-5,9
+1102,Park,15,9
+1103,Dock,9,
+1104,HILL,9,8.5
+1105,Mill,,8
+1106, park,-5,8.5
+1107,Park,9,9
+1108,Dock,9,8.5
+1109,mill ,n/a,8
+1110,Mill,-5,
+1111,mill ,-5,
+1112,HILL,-5,8
+1113, park,n/a,9
+1114,mill ,15,8
+1115, park,12,9
+1115, park,12,9
+1116, park,12,8
+1117,HILL,9,8
+1118,mill ,,9
+1119,Park,n/a,8
+1120,Park,12,
+1121,Dock,15,9
+1122,mill ,9,8.5
+1123, park,n/a,8
+1124,mill ,12,9
+1125,Mill,-5,9
+1126, park,12,
+1127, park,,8.5
+1128,Mill,15,9
+1129,HILL,12,
+1130,Park,,
+1131, park,9,8
+1132,HILL,9,8
+1133, park,12,
+1134,Dock,-5,8.5
+1135,mill ,n/a,9
+1136,Mill,-5,8
+1137,mill ,,8
+1138,Dock,-5,9
+1139,Dock,9,9
+1140,HILL,12,8
+1141,Dock,15,
+1142,Dock,,8
+1143,mill ,15,
+1144,Mill,15,9
+1145,mill ,12,9
+1146,mill ,15,9
+1147,mill ,-5,9
+1148, park,,
+1149,Park,9,8.5
+1149,Park,9,8.5
+1150,mill ,-5,
+1150,mill ,-5,
+1151,Mill,,8
+1152, park,n/a,8
+1153,HILL,n/a,
+1154,Dock,9,8
+1155,HILL,,8
+1156,mill ,9,
+1157, park,-5,
+1158, park,-5,8
+1159,mill ,,8.5
+1160,Park,-5,
+1161,Mill,,
+1162,mill ,9,8
+1163,Dock,9,8
+1164,mill ,12,8
+1165,Park,9,8.5
+1166,Mill,n/a,
+1167,mill ,,8
+1168,Mill,-5,8
+1169, park,9,9
+1170,Park,12,8
+1171, park,-5,8
+1172, park,n/a,8
+1173,Dock,n/a,9
+1174,Dock,12,8.5
+1174,Dock,12,8.5
+1175, park,,8.5
+1176,Dock,-5,8.5
+1177,Mill,n/a,8
+1178,HILL,-5,8
+1179,mill ,12,8
+1180,HILL,15,9
+1181, park,n/a,9
+1182,Mill,12,8
+1183,Dock,-5,8.5
+1184,Park,,8.5
+1185,Dock,12,8
+1186,Dock,-5,8
+1187,mill ,,8
+1188,HILL,,9
+1189,HILL,15,9
+1189,HILL,15,9
+1190,Park,12,8.5
+1191,Dock,-5,
+1192,HILL,15,8.5
+1192,HILL,15,8.5
+1193, park,12,9
+1194,HILL,15,8
+1195,mill ,15,8
+1196,Mill,12,9
+1197,HILL,15,8
+1198,Park,9,8.5
+1199,Dock,-5,8.5
