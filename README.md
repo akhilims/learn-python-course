@@ -67,6 +67,7 @@ Each lesson has its own folder with the code shown in the video: the notebook (`
 | 5.3 | Python Course 5 3 CSV Files in Python | [open folder](Module%2005%20-%20Files%20and%20errors/Python_Course_5_3__CSV_Files_in_Python) |
 | 5.4 | Python Course 5 4 JSON | [open folder](Module%2005%20-%20Files%20and%20errors/Python_Course_5_4__JSON) |
 | 5.5 | Python Course 5 5 Errors - try except finally and raise | [open folder](Module%2005%20-%20Files%20and%20errors/Python_Course_5_5__Errors_-_try__except__finally_and_raise) |
+| 5.6 | Python Course 5 6 Mini Project - Expense Tracker That Saves | [open folder](Module%2005%20-%20Files%20and%20errors/Python_Course_5_6__Mini_Project_-_Expense_Tracker_That_Saves) |
 
 ## Module 06 - Objects
 | Lesson | Topic | Code |
@@ -100,6 +101,17 @@ Each lesson has its own folder with the code shown in the video: the notebook (`
 | 8.5 Part 1 | Python Course 8 5 Type Hints in Python Part 1 of 2 | [open folder](Module%2008%20-%20Clean%20Python/Python_Course_8_5__Type_Hints_in_Python__Part_1_of_2) |
 | 8.6 | Python Course 8 6 unittest and PEP 8 - Check the Race Progr | [open folder](Module%2008%20-%20Clean%20Python/Python_Course_8_6__unittest_and_PEP_8_-_Check_the_Race_Progr) |
 
+## Module 09 - Data Work
+| Lesson | Topic | Code |
+|---|---|---|
+| 9.1 | Python Course 9 1 numpy Arrays - Do the Maths on All the Ho | [open folder](Module%2009%20-%20Data%20Work/Python_Course_9_1__numpy_Arrays_-_Do_the_Maths_on_All_the_Ho) |
+| 9.2 | Python Course 9 2 pandas Series and DataFrames in Python P | [open folder](Module%2009%20-%20Data%20Work/Python_Course_9_2__pandas_Series_and_DataFrames_in_Python__P) |
+| 9.3 | Python Course 9 3 Cleaning Messy Data in Python Part 1 of | [open folder](Module%2009%20-%20Data%20Work/Python_Course_9_3__Cleaning_Messy_Data_in_Python__Part_1_of) |
+| 9.4 | Python Course 9 4 Group Merge and Pivot with pandas - Whic | [open folder](Module%2009%20-%20Data%20Work/Python_Course_9_4__Group__Merge_and_Pivot_with_pandas_-_Whic) |
+| 9.5 | Python Course 9 5 Charts with matplotlib - Line and Bar Cha | [open folder](Module%2009%20-%20Data%20Work/Python_Course_9_5__Charts_with_matplotlib_-_Line_and_Bar_Cha) |
+| 9.6 | Python Course 9 6 Choosing the Right Chart - Scatter Histo | [open folder](Module%2009%20-%20Data%20Work/Python_Course_9_6__Choosing_the_Right_Chart_-_Scatter__Histo) |
+| 9.7 | Python Course 9 7 Charts with matplotlib - Colours Legends | [open folder](Module%2009%20-%20Data%20Work/Python_Course_9_7__Charts_with_matplotlib_-_Colours__Legends) |
+
 ## The full course path
 Lessons are added module by module, in order:
 
@@ -111,7 +123,7 @@ Lessons are added module by module, in order:
 6. Module 6 - Objects (done)
 7. Module 7 - Modules and tools (done)
 8. Module 8 - Clean Python (done)
-9. Module 9 - Data work
+9. Module 9 - Data work (done)
 10. Module 10 - Web and APIs
 11. Module 11 - Automation
 12. Module 12 - Advanced Python language
@@ -127,3 +139,6 @@ Lessons are added module by module, in order:
 - Folders are named after the lessons; the Parts of one lesson belong to one video series.
 - Found a mistake in a lesson? Open an issue and write the lesson number.
 - Follow the playlist in order for the best results.
+
+## Data credit
+`day.csv` (Modules 9.4 to 9.7) is the UCI Bike Sharing dataset, licence CC BY 4.0. Source: Fanaee-T, Hadi and Gama, Joao, 2013, "Event labeling combining ensemble detectors and background knowledge", Progress in Artificial Intelligence. https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset
