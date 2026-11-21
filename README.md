@@ -113,6 +113,11 @@ Each lesson has its own folder with the code shown in the video: the notebook (`
 | 9.7 | Python Course 9 7 Charts with matplotlib - Colours Legends | [open folder](Module%2009%20-%20Data%20Work/Python_Course_9_7__Charts_with_matplotlib_-_Colours__Legends) |
 | 9.8 | Python Course 9 8 Mini Project - Analyse a Sales Dataset with Charts | [open folder](Module%2009%20-%20Data%20Work/Python_Course_9_8__Mini_Project_-_Analyse_a_Sales_Dataset_wi) |
 
+## Module 10 - Web, APIs and Dashboards
+| Lesson | Topic | Code |
+|---|---|---|
+| 10.1 | Python Course 10 1 How the Web Works - URLs and What Happens When You Press Enter | [open folder](Module%2010%20-%20Web%2C%20APIs%20and%20Dashboards/Python_Course_10_1__How_the_Web_Works_-_URLs_and_What_Happen) |
+
 ## The full course path
 Lessons are added module by module, in order:
 
@@ -145,3 +150,4 @@ Lessons are added module by module, in order:
 `retail_abroad.xlsx` (Module 9.8) is taken from the UCI Online Retail dataset by Daqing Chen, 2015, licence CC BY 4.0 (UCI Machine Learning Repository).
 
 `day.csv` (Modules 9.4 to 9.7) is the UCI Bike Sharing dataset, licence CC BY 4.0. Source: Fanaee-T, Hadi and Gama, Joao, 2013, "Event labeling combining ensemble detectors and background knowledge", Progress in Artificial Intelligence. https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset
+Weather data in Module 10 is from Open-Meteo (open-meteo.com), licence CC BY 4.0.
