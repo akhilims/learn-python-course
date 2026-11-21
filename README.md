@@ -111,6 +111,7 @@ Each lesson has its own folder with the code shown in the video: the notebook (`
 | 9.5 | Python Course 9 5 Charts with matplotlib - Line and Bar Cha | [open folder](Module%2009%20-%20Data%20Work/Python_Course_9_5__Charts_with_matplotlib_-_Line_and_Bar_Cha) |
 | 9.6 | Python Course 9 6 Choosing the Right Chart - Scatter Histo | [open folder](Module%2009%20-%20Data%20Work/Python_Course_9_6__Choosing_the_Right_Chart_-_Scatter__Histo) |
 | 9.7 | Python Course 9 7 Charts with matplotlib - Colours Legends | [open folder](Module%2009%20-%20Data%20Work/Python_Course_9_7__Charts_with_matplotlib_-_Colours__Legends) |
+| 9.8 | Python Course 9 8 Mini Project - Analyse a Sales Dataset with Charts | [open folder](Module%2009%20-%20Data%20Work/Python_Course_9_8__Mini_Project_-_Analyse_a_Sales_Dataset_wi) |
 
 ## The full course path
 Lessons are added module by module, in order:
@@ -141,4 +142,6 @@ Lessons are added module by module, in order:
 - Follow the playlist in order for the best results.
 
 ## Data credit
+`retail_abroad.xlsx` (Module 9.8) is taken from the UCI Online Retail dataset by Daqing Chen, 2015, licence CC BY 4.0 (UCI Machine Learning Repository).
+
 `day.csv` (Modules 9.4 to 9.7) is the UCI Bike Sharing dataset, licence CC BY 4.0. Source: Fanaee-T, Hadi and Gama, Joao, 2013, "Event labeling combining ensemble detectors and background knowledge", Progress in Artificial Intelligence. https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset
