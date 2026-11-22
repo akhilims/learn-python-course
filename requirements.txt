@@ -4,5 +4,7 @@ logtools
 matplotlib
 numpy
 pandas
+pydantic
+requests
 tabulate
 ipykernel  # runs the notebooks in VS Code
