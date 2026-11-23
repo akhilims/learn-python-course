@@ -1,0 +1,5 @@
+21:03 INFO started
+21:05 ERROR timeout
+21:07 WARN slow disk
+21:09 ERROR disk full
+21:12 INFO retry ok
