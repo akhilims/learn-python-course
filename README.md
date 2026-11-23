@@ -118,6 +118,7 @@ Each lesson has its own folder with the code shown in the video: the notebook (`
 |---|---|---|
 | 10.1 | Python Course 10 1 How the Web Works - URLs and What Happens When You Press Enter | [open folder](Module%2010%20-%20Web%2C%20APIs%20and%20Dashboards/Python_Course_10_1__How_the_Web_Works_-_URLs_and_What_Happen) |
 | 10.2 | Python Course 10.2 APIs with requests - params, timeout, errors, json_normalize (Part 1); keys, retries, cache, pages and checks (Part 2) | [open folder](Module%2010%20-%20Web%2C%20APIs%20and%20Dashboards/Python_Course_10_2__APIs_with_requests_in_Python_-_Rain_for) |
+| 10.3 | Python Course 10.3 Web scraping with BeautifulSoup - read a page, CSS selectors, cleaning, read_html (Parts 1-2); robots.txt, polite pause, merge (Part 3) | [open folder](Module%2010%20-%20Web%2C%20APIs%20and%20Dashboards/Python_Course_10_3__Web_Scraping_with_BeautifulSoup_in_Pytho) |
 
 ## The full course path
 Lessons are added module by module, in order:

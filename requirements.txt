@@ -7,4 +7,6 @@ pandas
 pydantic
 requests
 tabulate
+lxml
+beautifulsoup4
 ipykernel  # runs the notebooks in VS Code
