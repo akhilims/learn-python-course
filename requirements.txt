@@ -9,4 +9,6 @@ requests
 tabulate
 lxml
 beautifulsoup4
+plotly
+streamlit
 ipykernel  # runs the notebooks in VS Code
