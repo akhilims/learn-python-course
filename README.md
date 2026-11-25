@@ -120,6 +120,7 @@ Each lesson has its own folder with the code shown in the video: the notebook (`
 | 10.2 | Python Course 10.2 APIs with requests - params, timeout, errors, json_normalize (Part 1); keys, retries, cache, pages and checks (Part 2) | [open folder](Module%2010%20-%20Web%2C%20APIs%20and%20Dashboards/Python_Course_10_2__APIs_with_requests_in_Python_-_Rain_for) |
 | 10.3 | Python Course 10.3 Web scraping with BeautifulSoup - read a page, CSS selectors, cleaning, read_html (Parts 1-2); robots.txt, polite pause, merge (Part 3) | [open folder](Module%2010%20-%20Web%2C%20APIs%20and%20Dashboards/Python_Course_10_3__Web_Scraping_with_BeautifulSoup_in_Pytho) |
 | 10.4 | Python Course 10.4 Streamlit dashboards - first page with menu, cards and chart (Part 1); seven design rules and four Plotly graphs with hover (Part 2) | [open folder](Module%2010%20-%20Web%2C%20APIs%20and%20Dashboards/Python_Course_10_4__Your_First_Streamlit_Page_for_the_Rain-R) |
+| 10.5 | Python Course 10.5 Mini project: the Rain-Ready dashboard - a cached data pipeline (Part 1); filters, ranking, card, Plotly chart and download (Part 2); requirements.txt and GitHub (Part 3) | [open folder](Module%2010%20-%20Web%2C%20APIs%20and%20Dashboards/Python_Course_10_5__Build_a_Data_Pipeline_for_a_Streamlit_Da) |
 
 ## The full course path
 Lessons are added module by module, in order:
