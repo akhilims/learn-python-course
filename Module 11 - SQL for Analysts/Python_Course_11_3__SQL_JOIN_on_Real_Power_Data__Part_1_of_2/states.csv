@@ -1,0 +1,38 @@
+code,name,kind
+AN,Andaman and Nicobar,ut
+AP,Andhra Pradesh,state
+AR,Arunachal Pradesh,state
+AS,Assam,state
+BR,Bihar,state
+CH,Chandigarh,ut
+CT,Chhattisgarh,state
+DH,Dadra and Nagar Haveli and Daman and Diu,ut
+DL,Delhi,ut
+GA,Goa,state
+GJ,Gujarat,state
+HP,Himachal Pradesh,state
+HR,Haryana,state
+JH,Jharkhand,state
+JK,Jammu and Kashmir,ut
+KA,Karnataka,state
+KL,Kerala,state
+LA,Ladakh,ut
+LD,Lakshadweep,ut
+MH,Maharashtra,state
+ML,Meghalaya,state
+MN,Manipur,state
+MP,Madhya Pradesh,state
+MZ,Mizoram,state
+NL,Nagaland,state
+OR,Odisha,state
+OT,Others,state
+PB,Punjab,state
+PY,Puducherry,ut
+RJ,Rajasthan,state
+SK,Sikkim,state
+TG,Telangana,state
+TN,Tamil Nadu,state
+TR,Tripura,state
+UP,Uttar Pradesh,state
+UT,Uttarakhand,state
+WB,West Bengal,state

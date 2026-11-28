@@ -122,6 +122,17 @@ Each lesson has its own folder with the code shown in the video: the notebook (`
 | 10.4 | Python Course 10.4 Streamlit dashboards - first page with menu, cards and chart (Part 1); seven design rules and four Plotly graphs with hover (Part 2) | [open folder](Module%2010%20-%20Web%2C%20APIs%20and%20Dashboards/Python_Course_10_4__Your_First_Streamlit_Page_for_the_Rain-R) |
 | 10.5 | Python Course 10.5 Mini project: the Rain-Ready dashboard - a cached data pipeline (Part 1); filters, ranking, card, Plotly chart and download (Part 2); requirements.txt and GitHub (Part 3) | [open folder](Module%2010%20-%20Web%2C%20APIs%20and%20Dashboards/Python_Course_10_5__Build_a_Data_Pipeline_for_a_Streamlit_Da) |
 
+## Module 11 - SQL for Analysts
+| Lesson | Topic | Code |
+|---|---|---|
+| 11.1 | Python Course 11.1 SQLite in Python - your first database file (Part 1); SELECT, WHERE, ORDER BY with pandas read_sql (Part 2); UPDATE and DELETE with WHERE, AS (Part 3) | [open folder](Module%2011%20-%20SQL%20for%20Analysts/Python_Course_11_1__Create_Your_First_SQLite_Database_in_Pyt) |
+| 11.2 | Python Course 11.2 SQL GROUP BY and HAVING - COUNT, SUM, AVG and CASE WHEN | [open folder](Module%2011%20-%20SQL%20for%20Analysts/Python_Course_11_2__SQL_GROUP_BY_and_HAVING) |
+| 11.3 | Python Course 11.3 SQL JOIN with ON (Part 1); LEFT JOIN and the missing ON mistake (Part 2) | [open folder](Module%2011%20-%20SQL%20for%20Analysts/Python_Course_11_3__SQL_JOIN_on_Real_Power_Data__Part_1_of_2) |
+| 11.4 | Python Course 11.4 SQL window functions - WITH (CTE), RANK and LAG | [open folder](Module%2011%20-%20SQL%20for%20Analysts/Python_Course_11_4__SQL_WITH__RANK_and_LAG) |
+| 11.5 | Python Course 11.5 DuckDB - SQL on CSV and Parquet files | [open folder](Module%2011%20-%20SQL%20for%20Analysts/Python_Course_11_5__DuckDB_on_CSV_and_Parquet) |
+
+11.2, 11.3 and 11.4 include `power.db` as it is at the START of that lesson, so each folder runs on its own; 11.1 builds it from `generation.csv`. `generation.parquet` is made by the 11.5 code.
+
 ## The full course path
 Lessons are added module by module, in order:
 
@@ -134,8 +145,8 @@ Lessons are added module by module, in order:
 7. Module 7 - Modules and tools (done)
 8. Module 8 - Clean Python (done)
 9. Module 9 - Data work (done)
-10. Module 10 - Web and APIs
-11. Module 11 - Automation
+10. Module 10 - Web, APIs and Dashboards (done)
+11. Module 11 - SQL for Analysts (11.1-11.5 here, 11.6 coming)
 12. Module 12 - Advanced Python language
 13. Module 13 - Concurrency and speed
 14. Module 14 - Databases
@@ -155,3 +166,5 @@ Lessons are added module by module, in order:
 
 `day.csv` (Modules 9.4 to 9.7) is the UCI Bike Sharing dataset, licence CC BY 4.0. Source: Fanaee-T, Hadi and Gama, Joao, 2013, "Event labeling combining ensemble detectors and background knowledge", Progress in Artificial Intelligence. https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset
 Weather data in Module 10 is from Open-Meteo (open-meteo.com), licence CC BY 4.0.
+
+India's monthly state electricity data in Module 11 (`generation.csv`, January 2019 to July 2025) is a public Kaggle dataset, licence CC0.

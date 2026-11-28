@@ -1,0 +1,10 @@
+fuel,kind
+Bioenergy,clean
+Coal,fossil
+Gas,fossil
+Hydro,clean
+Nuclear,clean
+Other Fossil,fossil
+Other Renewables,clean
+Solar,clean
+Wind,clean
